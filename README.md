@@ -1,13 +1,6 @@
-# Shades Toolbox
-
-
-<img src="https://github.com/shadesofdeath/Shades-Toolbox/raw/main/Image/logo.png">
-
-
-
 ### ⚠️ About 
 
-Shades Toolbox is a program that optimizes your Windows PC to make it run faster and smoother.
+This is a program that optimizes your Windows PC to make it run faster and smoother.
 
 I highly recommend using this application on your low-end desktop computer as it will provide an extra FPS boost to your PC, and it simply downloads and automatically installs the applications we use in daily life on your PC. Since the download and installation processes are done via Winget, it is very safe, fast and up-to-date.
 
@@ -67,10 +60,7 @@ This app works on both Windows 10 and 11. The other has not been tested on opera
 
 
 
-### [Screenshots](http://https://github.com/shadesofdeath/Shades-Toolbox/tree/main/Image "Screenshots")
 
 
 
-### 🤝 Contributing
 
-**Thank you very much for supporting me in my work. [Hüseyin UZUNYAYLA](https://github.com/OgnitorenKs "Hüseyin UZUNYAYLA")**
